@@ -13,7 +13,9 @@ Using this controller: Arduino Uno R3
 Goal: Configure digital pins and understand basic program flow.
 Main stuff : `pinMode(OUTPUT)`, `digitalWrite()`, `delay()`, `setup()` vs `loop()`.
 Outcome: Successfully programmed an LED to blink on a timed interval.
-DIDNT get a image of this one since I turned off my pc before saving in lesson learned.
+DAY 1 CHALLENGE CODE? CIRCUIT
+https://github.com/user-attachments/assets/3f787f61-0c76-4ff2-a90b-7e3b9585bc52
+
 
 Day 2: Pushbutton Digital Input & Conditionals
 Goal: Read input from a physical switch to control an LED.
