@@ -24,6 +24,11 @@ Key Concepts:
   * C++ case sensitivity (`pinMode` vs `pinmode`). ( this is what lead to most of my errors)
 * **Outcome:** Circuit turns on LED only when the button is held down.
 
+
+<DAY 2 CIRCUIT CHALLENGE CODE"
+"https://github.com/user-attachments/assets/6bb756e6-9e6d-46ee-a3d7-87ca1a085a54" />
+
+
 Day 3: [Upcoming Challenge]
 Goal: ( Analog Input with Potentiometer / Multiple LEDs)
 
